@@ -13,7 +13,7 @@ I am an Entry-Level Embedded Engineer.
 
 Here are some of the notable works and projects I've been involved in:
 
-- [Automating Coffee Machine](https://github.com/DaoThanhThang/Automating-Coffee-Brewing): Developed an automated coffee brewing system using [specific technologies or methodologies].
+- [Automating Coffee Machine](https://github.com/DaoThanhThang/Automating-Coffee-Brewing): Developed an automated coffee brewing system using C/C++, C#, Java...
 - [Air Conditioner using PID](https://github.com/DaoThanhThang/Temperature-Control-System-using-PID-Control-Algorithm): Implemented a temperature control system for an air conditioner using the PID control algorithm.
 
 ## Skills
