@@ -26,7 +26,7 @@ Here are some key skills I possess:
 
 ## Education
 
-- (Graduated) HCMC University of Technology (HUTECH), Major in: Control and Automation Engineering, Year of Graduation: [Year].
+- (Graduated) HCMC University of Technology (HUTECH), Major in: Control and Automation Engineering, Year of Graduation: [8/2023].
 
 ## Connect
 
